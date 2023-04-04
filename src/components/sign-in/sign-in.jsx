@@ -123,7 +123,7 @@ function SignIn(){
                 Sign in
               </Button>
             </Stack>
-            <span style={{textAlign:'center'}}></span>
+            <span style={{textAlign:'center'}}>or</span>
             <Button
           w={'full'}
           maxW={'md'}
